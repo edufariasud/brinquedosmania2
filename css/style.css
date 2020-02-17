@@ -1,0 +1,129 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.fixed-nav-btn {
+  position: fixed;
+  right: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.nav-btns{
+  margin-left: 0px;
+}
+
+.fixed-nav-btn-opt {
+  position: fixed;
+  left: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.app-title{
+  color: white;
+  font-weight: inherit;
+  font-size: 1.64rem;
+  line-height: 100%;
+  position: fixed;
+  left: 55px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.ovo {
+  background-color: #ffcc00 !important;
+}
+
+
+.log{
+  color: white;
+  font-weight: inherit;
+  font-size: 1.0rem;
+  line-height: 100%;
+
+
+  padding-top: 20px !important;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+
+
+
+.red-americanas {
+  background-color: #e60014 !important;
+}
+
+.red-americanas-text {
+  color: #e60014 !important;
+}
+
+.tabs .tab {
+  text-transform: none !important;
+}
+
+
+
+
+
+.tabs.tabs-brin .tab a,
+.tabs.tabs-brin .tab.disabled a,
+.tabs.tabs-brin .tab.disabled a:hover {
+  color: #757575;
+}
+
+.tabs.tabs-brin .tab a:hover,
+.tabs.tabs-brin .tab a.active {
+  color: #000;
+}
+
+.tabs.tabs-brin .indicator {
+  background-color: #e60014 !important;
+}
+
+
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 95%;
+}
+
+.estrela {
+  color: #f2c832;
+}
+
+h5 {
+  font-size: 15px;
+  line-height: 90%;
+  margin: 0, 0;
+}
+
+.card .card-action {
+  position: relative;
+  background-color: inherit;
+  border-top: 1px solid rgba(160, 160, 160, 0.2);
+  padding: 10px 14px;
+}
+
+.parcela {
+  margin: 0;
+}
+
